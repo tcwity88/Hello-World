@@ -1,2 +1,5 @@
 # Hello-World
-Newbie work
+
+Hi humans!
+
+Jason here! I like tea but not coffee :)
